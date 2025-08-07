@@ -69,7 +69,7 @@ export default function Navbar() {
             
             {/* Mobile Menu Button */}
             <div className="md:hidden flex items-center">
-              <button
+              <button 
                 onClick={() => setIsOpen(!isOpen)}
                 className="menu-button inline-flex items-center justify-center p-2 rounded-md text-blue-800 hover:text-blue-600 focus:outline-none"
                 aria-expanded="false"
