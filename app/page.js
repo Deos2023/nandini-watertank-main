@@ -161,7 +161,7 @@ export default function Home() {
               <div className="absolute -top-6 -left-6 w-full h-full border-2 border-blue-300 rounded-lg z-0"></div>
               <div className="relative z-10 bg-white p-2 rounded-lg shadow-lg">
                 <img 
-                  src="/about-water-tank.jpg" 
+                  src="/2.jpeg" 
                   alt="About Nandini Water Tank Cleaner" 
                   className="rounded-lg w-full h-auto"
                 />

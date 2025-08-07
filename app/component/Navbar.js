@@ -16,6 +16,7 @@ export default function Navbar() {
               <a href="/services" className="text-blue-800 hover:text-blue-600 px-3 py-2 font-medium">Services</a>
               <a href="/#process" className="text-blue-800 hover:text-blue-600 px-3 py-2 font-medium">Process</a>
               <a href="/#testimonials" className="text-blue-800 hover:text-blue-600 px-3 py-2 font-medium">Reviews</a>
+              <a href="/gallery" className="text-blue-800 hover:text-blue-600 px-3 py-2 font-medium">Gallery</a>
               <a href="/contact" className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 font-medium">Contact</a>
             </div>
           </div>
